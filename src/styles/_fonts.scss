@@ -1,0 +1,20 @@
+@include font-face("Monoton", "Monoton-Regular", 400, normal);
+
+@include font-face(
+  "MontserratAlternates",
+  "MontserratAlternates-Regular",
+  400,
+  normal
+);
+@include font-face(
+  "MontserratAlternates",
+  "MontserratAlternates-Medium",
+  500,
+  normal
+);
+@include font-face(
+  "MontserratAlternates",
+  "MontserratAlternates-Bold",
+  700,
+  normal
+);
